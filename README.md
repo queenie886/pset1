@@ -1,6 +1,6 @@
 # Pset 1
 
-[![Build Status](https://travis-ci.com/csci-e-29/2019fa-pset-1-yyqian123.svg?token=QRgd19txoC7RfxsDpueV&branch=master)](https://travis-ci.com/csci-e-29/2019fa-pset-1-yyqian123)
+[![Build Status](https://travis-ci.com/queenie886/pset1.svg?branch=master)](https://travis-ci.com/queenie886/pset1)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/42bb537c7e567b26f1a0/maintainability)](https://codeclimate.com/repos/5d90f9683baaa901630026d2/maintainability)
 
