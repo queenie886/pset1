@@ -2,9 +2,9 @@
 
 [![Build Status](https://travis-ci.com/queenie886/pset1.svg?branch=master)](https://travis-ci.com/queenie886/pset1)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/42bb537c7e567b26f1a0/maintainability)](https://codeclimate.com/repos/5d90f9683baaa901630026d2/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/be4d4dc1ae65b5a61003/maintainability)](https://codeclimate.com/github/queenie886/pset1/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/42bb537c7e567b26f1a0/test_coverage)](https://codeclimate.com/repos/5d90f9683baaa901630026d2/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/be4d4dc1ae65b5a61003/test_coverage)](https://codeclimate.com/github/queenie886/pset1/test_coverage)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
