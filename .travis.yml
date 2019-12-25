@@ -6,7 +6,7 @@ python:
   - 3.7
 env:
    global:
-        - CC_TEST_REPORTER_ID=277bdc962ffee19e070aed76ee84e7377bdb4958c020349d705dab6c593fa174
+        - CC_TEST_REPORTER_ID=8afb510e92a79451125a2b455bb98dd0419e43689d2ce317374e02aee6d84386
 # Command to run tests, e.g. python setup.py test
 install:
 - pip install pipenv
