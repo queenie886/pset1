@@ -60,5 +60,3 @@ def atomic_write(file, mode="w", as_file=True, **kwargs):
             # remove temporary file
             if os.path.exists(tf.name):
                 os.remove(tf.name)
-
-    print('hi')
