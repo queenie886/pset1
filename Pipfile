@@ -9,6 +9,7 @@ pytest-cov = "*"
 
 [packages]
 awscli = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
